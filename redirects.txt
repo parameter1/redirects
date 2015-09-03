@@ -1,6 +1,7 @@
 --------- Platform ---------
 saintlouismedicalnews.com www.saintlouismedicalnews.com
 nfocuslouisville.com www.nfocuslouisville.com
+nfocusnashville.com www.nfocusnashville.com
 
 --------- Merrick ---------
 ihdelivery.com/subscribe www.emsworld.com/subscribe/print/ihd
