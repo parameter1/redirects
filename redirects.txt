@@ -12,6 +12,7 @@ westtnmedicalnews.com www.westtnmedicalnews.com
 nashvillemedicalnews.com www.nashvillemedicalnews.com
 memphismedicalnews.com www.memphismedicalnews.com
 forresidentialpros.com www.forresidentialpros.com
+directory.forresidentialpros.com www.forresidentialpros.com/directory
 qualifiedremodeler.com www.qualifiedremodeler.com
 kitchenbathdesign.com www.kitchenbathdesign.com
 
