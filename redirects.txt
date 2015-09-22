@@ -15,7 +15,7 @@ forresidentialpros.com www.forresidentialpros.com
 directory.forresidentialpros.com www.forresidentialpros.com
 qualifiedremodeler.com www.qualifiedremodeler.com
 kitchenbathdesign.com www.kitchenbathdesign.com
-facilitiesexpos.com facilitiesexpo.com
+
 
 --------- Merrick ---------
 revista.emsworld.com www.emsworld.com/reg/newsletter
@@ -24,3 +24,4 @@ ihdelivery.com www.emsworld.com/integrated-healthcare
 ihexecutive.com www.emsworld.com/integrated-healthcare
 
 --------- Expos ---------
+facilitiesexpos.com facilitiesexpo.com
