@@ -11,3 +11,5 @@ Apache >= 2.4
     www.domain.com www.newdomain.com
     www.domain.com/test www.newdomains.com/new/url
     
+#### Add A Record
+52.3.155.236
