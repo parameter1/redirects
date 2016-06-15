@@ -28,7 +28,7 @@ cltampa.com www.cltampa.com
 m.cltampa.com www.cltampa.com
 tampabayrestaurantweek.com www.cltampa.com/restaurantweek
 citybeat.com www.citybeat.com
-
+jira.baseplatform.io southcomm.atlassian.net
 
 --------- Merrick ---------
 revista.emsworld.com www.emsworld.com/revista
