@@ -28,7 +28,17 @@ cltampa.com www.cltampa.com
 m.cltampa.com www.cltampa.com
 tampabayrestaurantweek.com www.cltampa.com/restaurantweek
 citybeat.com www.citybeat.com
-jira.baseplatform.io southcomm.atlassian.net
+
+--------- Clarity ---------
+brevity.printingnews.com clarity.printingnews.com
+brevity.next.printingnews.com clarity.printingnews.com
+brevity.officer.com clarity.officer.com
+brevity.firehouse.com clarity.firehouse.com
+brevity.next.firehouse.com clarity.firehouse.com
+brevity.emsworld.com clarity.emsworld.com
+brevity.next.emsworld.com clarity.emsworld.com
+brevity.mpmf.com clarity.mpmf.com
+
 
 --------- Merrick ---------
 revista.emsworld.com www.emsworld.com/revista
@@ -43,5 +53,6 @@ ptesource.com www.vehicleservicepros.com/directory
 --------- Expos ---------
 facilitiesexpos.com facilitiesexpo.com
 
---------- Expos ---------
+--------- Other ---------
 www.southcommevents.com southcommevents.com
+jira.baseplatform.io southcomm.atlassian.net
