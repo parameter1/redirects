@@ -32,7 +32,7 @@ tampabayrestaurantweek.com www.cltampa.com/restaurantweek
 citybeat.com www.citybeat.com
 amtsociety.org www.aviationpros.com/education-training
 amtsociety.com www.aviationpros.com/education-training
-ufs1.southcomm.com ufs1.southcomm.com:5000
+ufs1.southcomm.com 207.88.236.118:5000
 
 --------- Clarity ---------
 brevity.printingnews.com clarity.printingnews.com
