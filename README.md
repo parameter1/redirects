@@ -9,6 +9,7 @@ Apache >= 2.4
 #### Possiable Redirects
     domain.com www.domain.com
     www.domain.com www.newdomain.com
+    www.domain.com www.newdomain.com/test
     www.domain.com/test www.newdomains.com/new/url
     
 #### Add A Record
