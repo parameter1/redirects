@@ -52,9 +52,9 @@ brevity.mpmf.com clarity.mpmf.com
 revista.emsworld.com www.emsworld.com/revista
 ihdelivery.com/subscribe www.emsworld.com/subscribe/print/ihd
 ihdelivery.com www.emsworld.com/integrated-healthcare
-fleetmag.com www.vehicleservicepros.com/magazine/fms/
-pten.com www.vehicleservicepros.com/magazine/pten/
-professionaldistributormagazine.com www.vehicleservicepros.com/magazine/pd/
+fleetmag.com www.vehicleservicepros.com/magazine/53cd1d791784f8066eb2ca76
+pten.com www.vehicleservicepros.com/magazine/53cd1d791784f8066eb2ca77
+professionaldistributormagazine.com www.vehicleservicepros.com/magazine/53cd1d791784f8066eb2ca78
 printingnews.com www.printingnews.com
 ptesource.com www.vehicleservicepros.com/directory
 
