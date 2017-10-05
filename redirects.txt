@@ -68,3 +68,5 @@ ufs1.southcomm.com 207.88.236.118:5000
 scenephotocontest.com www.facebook.com/Nashville-Scene-34536716194
 www.craftybastards.nashvillescene.com nashville.craftybastards.com
 craftybastards.nashvillescene.com nashville.craftybastards.com
+www.craftybastards.nashvillescene.com nashville.craftybastards.com
+craftybastards.nashvillescene.com nashville.craftybastards.com
