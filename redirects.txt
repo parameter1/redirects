@@ -86,6 +86,7 @@ facilitiesexpos.com facilitiesexpo.com
 
 --------- Other ---------
 www.southcommevents.com southcommevents.com
+southcomminc.com www.southcomm.com
 jira.baseplatform.io southcomm.atlassian.net
 ufs1.southcomm.com 207.88.236.118:5000
 scenephotocontest.com woobox.com/q7j9ee
