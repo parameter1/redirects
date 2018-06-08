@@ -1,7 +1,8 @@
  Apache Redirect Service
 ========================
-Takes any request and does regex on the request to firgure out where to redirect it. If it finds a match in the text file it will redirect it and if not it will allow it to pass through. Text file should be space sperated list of redirects.
+Takes a request and utilizes regex to determine where to redirect it to. If it finds a match in the text file, it will redirect. 
 
+The text file needs to be a space seperated list of redirects.
 
 #### Requirements
 Apache >= 2.4
