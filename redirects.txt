@@ -18,7 +18,7 @@ securityinfowatch.com www.securityinfowatch.com
 nfocusnashville.com www.nfocusnashville.com
 nashvillepost.com www.nashvillepost.com
 pitch.com www.thepitchkc.com
-local.pitch.com www.thepitchkc.com
+local.pitch.com local.thepitchkc.com
 nashvillescene.com www.nashvillescene.com
 creativeloafing.com www.creativeloafing.com
 cltampa.com www.cltampa.com
