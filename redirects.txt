@@ -79,6 +79,8 @@ southcomminc.com https://www.southcomm.com
 jira.baseplatform.io https://southcomm.atlassian.net
 invoice.southcomm.com https://cygnuscorporate.wufoo.com/forms/marnarg1qvfg6h
 www.invoice.southcomm.com https://cygnuscorporate.wufoo.com/forms/marnarg1qvfg6h
+invoice.endeavorb2b.com https://cygnuscorporate.wufoo.com/forms/marnarg1qvfg6h
+www.invoice.endeavorb2b.com https://cygnuscorporate.wufoo.com/forms/marnarg1qvfg6h
 ufs1.southcomm.com http://207.88.236.118:5000
 scenephotocontest.com https://woobox.com/q7j9ee
 www.craftybastards.nashvillescene.com http://nashville.craftybastards.com
