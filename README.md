@@ -8,10 +8,16 @@ The text file needs to be a space seperated list of redirects.
 Apache >= 2.4
 
 #### Possiable Redirects
-    domain.com www.domain.com
-    www.domain.com www.newdomain.com
-    www.domain.com www.newdomain.com/test
-    www.domain.com/test www.newdomains.com/new/url
+    domain.com http://www.domain.com
+    www.domain.com http://www.newdomain.com
+    www.domain.com http://www.newdomain.com/test
+    www.domain.com/test http://www.newdomains.com/new/url
+    
+    SSL Domains too
+    domain.com https://www.domain.com
+    www.domain.com https://www.newdomain.com
+    www.domain.com https://www.newdomain.com/test
+    www.domain.com/test https://www.newdomains.com/new/url
     
 #### Add A Record
 52.3.155.236
