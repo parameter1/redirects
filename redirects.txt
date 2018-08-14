@@ -14,6 +14,7 @@ cpapracticeadvisor.com http://www.cpapracticeadvisor.com
 aviationpros.com http://www.aviationpros.com
 securityinfowatch.com http://www.securityinfowatch.com
 nfocusnashville.com https://www.nfocusnashville.com
+tacoweek.nashvillescene.com https://www.nashvilletacoweek.com
 nashvillepost.com https://www.nashvillepost.com
 email.pitch.com https://email.thepitchkc.com
 pitch.com https://www.thepitchkc.com
