@@ -5,7 +5,9 @@ Takes a request and utilizes regex to determine where to redirect it to. If it f
 The text file needs to be a space seperated list of redirects.
 
 #### Requirements
-Apache >= 2.4
+    Example ENV 
+    Required: REDIRECT_LIST_URL=https://raw.githubusercontent.com/cygnusb2b/redirects/master/redirects.txt
+    Optional: UPDATE_INTERVAL=(default is 60 seconds)
 
 #### Possiable Redirects
     domain.com http://www.domain.com
