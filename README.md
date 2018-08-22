@@ -20,6 +20,11 @@ The text file needs to be a space seperated list of redirects.
     www.domain.com https://www.newdomain.com
     www.domain.com https://www.newdomain.com/test
     www.domain.com/test https://www.newdomains.com/new/url
-    
+
+#### Setup
+Install Docker, once that is installed this is an exmaple run command.
+
+    docker run -p 80:80 -e REDIRECT_LIST_URL=https://yoururls.com/somefile.txt -d redirects
+
 #### Add A Record
 52.3.155.236
