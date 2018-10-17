@@ -52,7 +52,7 @@ evaluationengineering.com https://www.evaluationengineering.com
 hpnonline.com https://www.hpnonline.com
 healthmgttech.com https://www.healthmgttech.com
 mlo-online.com https://www.mlo-online.com
-cannabisequipmentnews.com www.cannabisequipmentnews.com
+cannabisequipmentnews.com https://www.cannabisequipmentnews.com
 
 --------- Clarity ---------
 brevity.printingnews.com https://clarity.printingnews.com
