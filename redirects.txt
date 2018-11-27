@@ -38,6 +38,8 @@ washingtoncitypaper.com https://www.washingtoncitypaper.com
 gasptampa.com https://www.cltampa.com/gasp
 nashvillepost.com https://www.nashvillepost.com
 base.vehicleservicepros.com https://manage.vehicleservicepros.com
+base.vendingmarketwatch.com https://manage.vendingmarketwatch.com
+base.masstransitmag.com https://manage.masstransitmag.com
 forconstructionpros.com https://www.forconstructionpros.com
 craftybastards.com http://southcommevents.com/craftybastards
 thepitchkc.com https://www.thepitchkc.com
