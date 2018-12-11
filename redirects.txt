@@ -7,6 +7,7 @@ sdcexec.com https://www.sdcexec.com
 vehicleservicepros.com https://www.vehicleservicepros.com
 masstransitmag.com http://www.masstransitmag.com
 officer.com https://www.officer.com
+greenindustrypros.com https://www.greenindustrypros.com
 vendingmarketwatch.com http://www.vendingmarketwatch.com
 firehouse.com https://www.firehouse.com
 foodlogistics.com https://www.foodlogistics.com
