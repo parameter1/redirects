@@ -107,3 +107,4 @@ craftybastards.nashvillescene.com http://nashville.craftybastards.com
 southcomm.com http://www.endeavorbusinessmedia.com
 intranet.endeavorb2b.com https://southcomm.sharepoint.com
 forums.watertechonline.com https://www.watertechonline.com/bulletin-board
+securitybusinessmag.com https://www.securityinfowatch.com/magazine/sdi
