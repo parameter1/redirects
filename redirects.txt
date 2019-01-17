@@ -67,7 +67,7 @@ brevity.mpmf.com https://clarity.mpmf.com
 
 --------- Merrick ---------
 fleetmag.com https://www.vehicleservicepros.com/magazine/53cd1d791784f8066eb2ca76
-pten.com https://www.vehicleservicepros.com/magazine/53cd1d791784f8066eb2ca77
+pten.com https://www.vehicleservicepros.com/magazine/44605
 professionaldistributormagazine.com https://www.vehicleservicepros.com/magazine/53cd1d791784f8066eb2ca78
 printingnews.com http://www.printingnews.com
 ptesource.com https://www.vehicleservicepros.com/directory
