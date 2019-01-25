@@ -39,6 +39,8 @@ washingtoncitypaper.com https://www.washingtoncitypaper.com
 gasptampa.com https://www.cltampa.com/gasp
 nashvillepost.com https://www.nashvillepost.com
 hcinnovationgroup.com https://www.hcinnovationgroup.com
+healthcare-informatics.com https://www.hcinnovationgroup.com
+healthmgttech.com https://www.hcinnovationgroup.com
 
 forconstructionpros.com https://www.forconstructionpros.com
 craftybastards.com http://southcommevents.com/craftybastards
@@ -52,7 +54,7 @@ securityinfowatch.com https://www.securityinfowatch.com
 vendingmarketwatch.com https://www.vendingmarketwatch.com
 evaluationengineering.com https://www.evaluationengineering.com
 hpnonline.com https://www.hpnonline.com
-healthmgttech.com https://www.healthmgttech.com
+
 mlo-online.com https://www.mlo-online.com
 cannabisequipmentnews.com https://www.cannabisequipmentnews.com
 
