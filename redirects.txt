@@ -89,6 +89,7 @@ base.vendingmarketwatch.com https://manage.vendingmarketwatch.com
 base.greenindustrypros.com https://manage.greenindustrypros.com
 base.masstransitmag.com https://manage.masstransitmag.com
 base.securityinfowatch.com https://manage.securityinfowatch.com
+base.aviationpros.com https://manage.aviationpros.com
 
 
 --------- Expos ---------
