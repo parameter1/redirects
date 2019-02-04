@@ -54,6 +54,7 @@ securityinfowatch.com https://www.securityinfowatch.com
 vendingmarketwatch.com https://www.vendingmarketwatch.com
 evaluationengineering.com https://www.evaluationengineering.com
 hpnonline.com https://www.hpnonline.com
+plasticsmachinerymagazine.com https://www.plasticsmachinerymagazine.com
 
 mlo-online.com https://www.mlo-online.com
 cannabisequipmentnews.com https://www.cannabisequipmentnews.com
