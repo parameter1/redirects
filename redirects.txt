@@ -41,6 +41,7 @@ nashvillepost.com https://www.nashvillepost.com
 hcinnovationgroup.com https://www.hcinnovationgroup.com
 healthcare-informatics.com https://www.hcinnovationgroup.com
 healthmgttech.com https://www.hcinnovationgroup.com
+dmnews.com https://www.dmnews.com
 
 forconstructionpros.com https://www.forconstructionpros.com
 craftybastards.com http://southcommevents.com/craftybastards
