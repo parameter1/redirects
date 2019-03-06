@@ -93,6 +93,8 @@ base.greenindustrypros.com https://manage.greenindustrypros.com
 base.masstransitmag.com https://manage.masstransitmag.com
 base.securityinfowatch.com https://manage.securityinfowatch.com
 base.aviationpros.com https://manage.aviationpros.com
+base.locksmithledger.com https://manage.locksmithledger.com
+base.cpapracticeadvisor.com https://manage.cpapracticeadvisor.com
 
 
 --------- Expos ---------
