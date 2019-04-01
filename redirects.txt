@@ -16,6 +16,8 @@ aviationpros.com http://www.aviationpros.com
 securityinfowatch.com http://www.securityinfowatch.com
 nfocusnashville.com https://www.nfocusnashville.com
 tacoweek.nashvillescene.com https://www.nashvilletacoweek.com
+moviesinthepark.nashvillescene.com https://www.fwpublishingevents.com/movies-in-the-park
+burgerweek.nashvillescene.com https://www.fwpublishingevents.com/burger-week
 nashvillepost.com https://www.nashvillepost.com
 email.pitch.com https://email.thepitchkc.com
 pitch.com https://www.thepitchkc.com
