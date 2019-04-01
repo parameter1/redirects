@@ -43,7 +43,6 @@ healthcare-informatics.com https://www.hcinnovationgroup.com
 healthmgttech.com https://www.hcinnovationgroup.com
 dmnews.com https://www.dmnews.com
 pmmsubscribe.com https://www.plasticsmachinerymagazine.com/subscribe
-
 forconstructionpros.com https://www.forconstructionpros.com
 craftybastards.com http://southcommevents.com/craftybastards
 thepitchkc.com https://www.thepitchkc.com
@@ -57,9 +56,9 @@ vendingmarketwatch.com https://www.vendingmarketwatch.com
 evaluationengineering.com https://www.evaluationengineering.com
 hpnonline.com https://www.hpnonline.com
 plasticsmachinerymagazine.com https://www.plasticsmachinerymagazine.com
-
 mlo-online.com https://www.mlo-online.com
 cannabisequipmentnews.com https://www.cannabisequipmentnews.com
+foresternetwork.com https://www.foresternetwork.com
 
 --------- Clarity ---------
 brevity.printingnews.com https://clarity.printingnews.com
