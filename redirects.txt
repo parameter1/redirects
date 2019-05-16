@@ -64,7 +64,12 @@ foresternetwork.com https://www.foresternetwork.com
 forester.net https://www.foresternetwork.com
 digital.hpnonline.com https://cdn.hpnonline.com
 www.citybeat.com/news/article/13026248/news-maddening-expenses https://www.citybeat.com
-waterworld.com https://www.waterworld.com
+
+--------- Pennwell ---------
+videos.gtl.waterworld.com https://www.waterworld.com/videos
+video.iww.waterworld.com https://www.waterworld.com/videos
+videos.waterworld.com https://www.waterworld.com/videos
+
 
 --------- Clarity ---------
 brevity.printingnews.com https://clarity.printingnews.com
