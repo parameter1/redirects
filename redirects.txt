@@ -129,7 +129,6 @@ securitybusinessmag.com https://www.securityinfowatch.com/magazine/5447e151c99db
 endeavorb2b.com https://www.endeavorbusinessmedia.com
 components.creativeloafing.com https://creativeloafing.com
 dentalacademyofce.com https://pennwell.myabsorb.com/
-horticulturelightingconference.com/ https://endeavor.swoogo.com/hlc19
 horticulturelightingconference.com/usa/about-us/ https://endeavor.swoogo.com/hlc19/about
 horticulturelightingconference.com/usa/speakers/ https://endeavor.swoogo.com/hlc19/speakers
 horticulturelightingconference.com/usa/program-2018/ https://endeavor.swoogo.com/hlc19/program
@@ -138,3 +137,5 @@ horticulturelightingconference.com/usa/sponsorship/ https://endeavor.swoogo.com/
 horticulturelightingconference.com/usa/location/ https://endeavor.swoogo.com/hlc19/location
 horticulturelightingconference.com/usa/contact/ https://endeavor.swoogo.com/hlc19/contact
 horticulturelightingconference.com/usa/register/ https://endeavor.swoogo.com/hlc19/begin
+horticulturelightingconference.com https://endeavor.swoogo.com/hlc19
+horticulturallightingconference.com https://endeavor.swoogo.com/hlc19
