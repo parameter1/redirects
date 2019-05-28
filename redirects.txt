@@ -128,6 +128,8 @@ forums.watertechonline.com https://www.watertechonline.com/bulletin-board
 securitybusinessmag.com https://www.securityinfowatch.com/magazine/5447e151c99db54158d9e7e1
 endeavorb2b.com https://www.endeavorbusinessmedia.com
 components.creativeloafing.com https://creativeloafing.com
+
+--------- Pennwell ---------
 dentalacademyofce.com https://pennwell.myabsorb.com/
 horticulturelightingconference.com/usa/about-us/ https://endeavor.swoogo.com/hlc19/about
 horticulturelightingconference.com/usa/speakers/ https://endeavor.swoogo.com/hlc19/speakers
@@ -139,3 +141,15 @@ horticulturelightingconference.com/usa/contact/ https://endeavor.swoogo.com/hlc1
 horticulturelightingconference.com/usa/register/ https://endeavor.swoogo.com/hlc19/begin
 horticulturelightingconference.com https://endeavor.swoogo.com/hlc19
 horticulturallightingconference.com https://endeavor.swoogo.com/hlc19
+principlesofpracticemgmt.com https://endeavor.swoogo.com/deppm19
+principlesofpracticemgmt.com/index/request-for-information.html	https://endeavor.swoogo.com/deppm19/request
+principlesofpracticemgmt.com/conference.html	https://endeavor.swoogo.com/deppm19/conference
+principlesofpracticemgmt.com/conference/speakers.html	https://endeavor.swoogo.com/deppm19/speakers
+principlesofpracticemgmt.com/conference/speaker-toolkit.html	https://endeavor.swoogo.com/deppm19/speaker-toolkit
+principlesofpracticemgmt.com/hotel.html	https://endeavor.swoogo.com/deppm19/hotel
+principlesofpracticemgmt.com/sponsor.html	https://endeavor.swoogo.com/deppm19/sponsor
+principlesofpracticemgmt.com/sponsors.html	https://endeavor.swoogo.com/deppm19/sponsors
+principlesofpracticemgmt.com/register.html	https://endeavor.swoogo.com/deppm19/registration
+principlesofpracticemgmt.com/register/cancellation-policy.html	https://endeavor.swoogo.com/deppm19/cancellation
+principlesofpracticemgmt.com/register/instructions.html	https://endeavor.swoogo.com/deppm19/instructions
+principlesofpracticemgmt.com/site-map.html	https://endeavor.swoogo.com/deppm19
