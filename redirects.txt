@@ -153,3 +153,7 @@ principlesofpracticemgmt.com/register.html	https://endeavor.swoogo.com/deppm19/r
 principlesofpracticemgmt.com/register/cancellation-policy.html	https://endeavor.swoogo.com/deppm19/cancellation
 principlesofpracticemgmt.com/register/instructions.html	https://endeavor.swoogo.com/deppm19/instructions
 principlesofpracticemgmt.com/site-map.html	https://endeavor.swoogo.com/deppm19
+principlesofpracticemgmt.com/index.html https://endeavor.swoogo.com/deppm19
+principlesofpracticemgmt.com/content/deppm.html https://endeavor.swoogo.com/deppm19
+principlesofpracticemgmt.com/index/contact-us.html https://endeavor.swoogo.com/deppm19/contact
+
