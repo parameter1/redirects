@@ -148,12 +148,13 @@ principlesofpracticemgmt.com/conference/speakers.html	https://endeavor.swoogo.co
 principlesofpracticemgmt.com/conference/speaker-toolkit.html	https://endeavor.swoogo.com/deppm19/speaker-toolkit
 principlesofpracticemgmt.com/hotel.html	https://endeavor.swoogo.com/deppm19/hotel
 principlesofpracticemgmt.com/sponsor.html	https://endeavor.swoogo.com/deppm19/sponsor
-principlesofpracticemgmt.com/sponsors.html	https://endeavor.swoogo.com/deppm19/sponsors
-principlesofpracticemgmt.com/register.html	https://endeavor.swoogo.com/deppm19/registration
-principlesofpracticemgmt.com/register/cancellation-policy.html	https://endeavor.swoogo.com/deppm19/cancellation
-principlesofpracticemgmt.com/register/instructions.html	https://endeavor.swoogo.com/deppm19/instructions
-principlesofpracticemgmt.com/site-map.html	https://endeavor.swoogo.com/deppm19
+principlesofpracticemgmt.com/sponsors.html https://endeavor.swoogo.com/deppm19/sponsors
+principlesofpracticemgmt.com/register.html https://endeavor.swoogo.com/deppm19/registration
+principlesofpracticemgmt.com/register/cancellation-policy.html https://endeavor.swoogo.com/deppm19/cancellation
+principlesofpracticemgmt.com/register/instructions.html https://endeavor.swoogo.com/deppm19/instructions
+principlesofpracticemgmt.com/index/contact-us.html https://endeavor.swoogo.com/deppm19/contact
+principlesofpracticemgmt.com/site-map.html https://endeavor.swoogo.com/deppm19
 principlesofpracticemgmt.com/index.html https://endeavor.swoogo.com/deppm19
 principlesofpracticemgmt.com/content/deppm.html https://endeavor.swoogo.com/deppm19
-principlesofpracticemgmt.com/index/contact-us.html https://endeavor.swoogo.com/deppm19/contact
+
 
