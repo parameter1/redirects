@@ -157,4 +157,33 @@ principlesofpracticemgmt.com/site-map.html https://endeavor.swoogo.com/deppm19
 principlesofpracticemgmt.com/index.html https://endeavor.swoogo.com/deppm19
 principlesofpracticemgmt.com/content/deppm.html https://endeavor.swoogo.com/deppm19
 
+marketplaceseminar.com https://endeavor.swoogo.com/lpms2020
+www.marketplaceseminar.com/index.html https://endeavor.swoogo.com/lpms2020
+www.marketplaceseminar.com/content/lpms/en/index.html https://endeavor.swoogo.com/lpms2020
+www.marketplaceseminar.com/content/lpms.html https://endeavor.swoogo.com/lpms2020
+www.marketplaceseminar.com/event-information.html https://endeavor.swoogo.com/lpms2020/event-information
+www.marketplaceseminar.com/register.html https://endeavor.swoogo.com/lpms2020/register
+www.marketplaceseminar.com/conference.html https://endeavor.swoogo.com/lpms2020
+www.marketplaceseminar.com/exhibition.html https://endeavor.swoogo.com/lpms2020
+www.marketplaceseminar.com/site-map https://endeavor.swoogo.com/lpms2020
+www.marketplaceseminar.com/sponsors.html  https://endeavor.swoogo.com/lpms2020/sponsors
+www.marketplaceseminar.com/about-us.html https://endeavor.swoogo.com/lpms2020/about
+www.marketplaceseminar.com/register-fb.html https://endeavor.swoogo.com/lpms2020/register
+www.marketplaceseminar.com/map.html https://endeavor.swoogo.com/lpms2020/map
+www.marketplaceseminar.com/2019.html https://endeavor.swoogo.com/lpms2020
+www.marketplaceseminar.com/2018.html https://endeavor.swoogo.com/lpms2020/register
+www.marketplaceseminar.com/register-mv.html https://endeavor.swoogo.com/lpms2020/register
+www.marketplaceseminar.com/register-p.html https://endeavor.swoogo.com/lpms2020/register
+www.marketplaceseminar.com/register-km.html https://endeavor.swoogo.com/lpms2020/register
+www.marketplaceseminar.com/register-h.html https://endeavor.swoogo.com/lpms2020/register
+www.marketplaceseminar.com/event-information/networking.html https://endeavor.swoogo.com/lpms2020/networking
+www.marketplaceseminar.com/event-information/agenda.html https://endeavor.swoogo.com/lpms2020/agenda
+www.marketplaceseminar.com/event-information/who-attends.html https://endeavor.swoogo.com/lpms2020/who-attends
+www.marketplaceseminar.com/event-information/speakers.html https://endeavor.swoogo.com/lpms2020/speakers
+www.marketplaceseminar.com/sponsors/sponsors.html https://endeavor.swoogo.com/lpms2020/2019-sponsors
+www.marketplaceseminar.com/sponsors/sponsors/optimax.html https://endeavor.swoogo.com/lpms2020/2019-sponsors
+www.marketplaceseminar.com/about-us/contact-us.html https://endeavor.swoogo.com/lpms2020/contact
+www.marketplaceseminar.com/video-2017 https://endeavor.swoogo.com/lpms2020
+www.marketplaceseminar.com/content-rotators/home.html https://endeavor.swoogo.com/lpms2020
+
 
