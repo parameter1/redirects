@@ -131,6 +131,7 @@ components.creativeloafing.com https://creativeloafing.com
 
 --------- Pennwell ---------
 dentalacademyofce.com https://pennwell.myabsorb.com/
+deepwateroperations.com https://www.offshore-event.com
 horticulturelightingconference.com/usa/about-us/ https://endeavor.swoogo.com/hlc19/about
 horticulturelightingconference.com/usa/speakers/ https://endeavor.swoogo.com/hlc19/speakers
 horticulturelightingconference.com/usa/program-2018/ https://endeavor.swoogo.com/hlc19/program
