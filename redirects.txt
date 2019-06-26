@@ -187,4 +187,21 @@ marketplaceseminar.com/about-us/contact-us.html https://endeavor.swoogo.com/lpms
 marketplaceseminar.com/video-2017 https://endeavor.swoogo.com/lpms2020
 marketplaceseminar.com/content-rotators/home.html https://endeavor.swoogo.com/lpms2020
 
+offshorewindsummit.com/index.html https://endeavor.swoogo.com/owes2020
+offshorewindsummit.com/content/owes/en/index.html https://endeavor.swoogo.com/owes2020
+offshorewindsummitt.com/content/owes.html https://endeavor.swoogo.com/owes2020
+offshorewindsummit.com https://endeavor.swoogo.com/owes2020
+offshorewindsummit.com/content/owes/en/event-information/about.html https://endeavor.swoogo.com/owes2020/about
+offshorewindsummit.com/content/owes/en/event-information/travel.html https://endeavor.swoogo.com/owes2020/travel
+offshorewindsummit.com/content/owes/en/conference.html https://endeavor.swoogo.com/owes2020/conference
+offshorewindsummit.com/content/owes/en/event-information/event-schedule.html https://endeavor.swoogo.com/owes2020/event-schedule
+offshorewindsummit.com/content/owes/en/conference/speakers.html https://endeavor.swoogo.com/owes2020/advisory-board
+offshorewindsummit.com/content/owes/en/event-information/post-event-report.html https://endeavor.swoogo.com/owes2020
+offshorewindsummit.com/content/owes/en/sponsors.html https://endeavor.swoogo.com/owes2020/sponsors
+offshorewindsummit.com/content/owes/en/index/contact-us.html https://endeavor.swoogo.com/owes2020/contact
+offshorewindsummit.com/content/owes/en/register.html https://endeavor.swoogo.com/owes2020/register
+offshorewindsummit.com/content/owes/en/event-information/travel-hotel.html https://endeavor.swoogo.com/owes2020/hotel-information
+offshorewindsummit.com/content/owes/en/register/international.html https://endeavor.swoogo.com/owes2020/international
+offshorewindsummit.com/content/owes/en/site-map.html https://endeavor.swoogo.com/owes2020
+
 
