@@ -1,4 +1,6 @@
 --------- Platform ---------
+
+icarus.bizbash.baseplatform.io https://www.bizbash.com
 vehicleservicepros.com https://www.vehicleservicepros.com
 printingnews.com http://www.printingnews.com
 oemoffhighway.com https://www.oemoffhighway.com
