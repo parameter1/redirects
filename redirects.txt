@@ -255,3 +255,11 @@ pnecconferences.com/register/instructions.html https://endeavor.swoogo.com/pnec2
 pnecconferences.com/event-information/mobile-event-app.html https://endeavor.swoogo.com/pnec2020/event-information
 pnecconferences.com/event-information/event-information-register-now.html https://endeavor.swoogo.com/pnec2020/event-information
 
+# Pennwell Buyers guides
+buyersguide.cablinginstall.com https://www.cablinginstall.com
+buyersguide.industrial-lasers.com https://www.industrial-lasers.com
+buyersguide.laserfocusworld.com https://www.laserfocusworld.com
+buyersguide.ledsmagazine.com https://www.ledsmagazine.com
+buyersguide.lightwaveonline.com https://www.lightwaveonline.com
+buyersguide.mae.pennnet.com https://www.militaryaerospace.com
+buyersguide.vision-systems.com https://www.vision-systems.com
