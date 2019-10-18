@@ -264,3 +264,9 @@ buyersguide.ledsmagazine.com https://www.ledsmagazine.com
 buyersguide.lightwaveonline.com https://www.lightwaveonline.com
 buyersguide.mae.pennnet.com https://www.militaryaerospace.com
 buyersguide.vision-systems.com https://www.vision-systems.com
+
+mbtmag.com https://www.mbtmag.com
+impomag.com https://www.impomag.com
+foodmanufacturing.com https://www.foodmanufacturing.com
+manufacturing.net https://www.manufacturing.net
+inddist.com https://www.inddist.com
