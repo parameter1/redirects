@@ -271,3 +271,6 @@ impomag.com https://www.impomag.com
 foodmanufacturing.com https://www.foodmanufacturing.com
 manufacturing.net https://www.manufacturing.net
 inddist.com https://www.inddist.com
+
+support.baseplatform.io https://southcomm.atlassian.net/servicedesk/customer/portal/4
+support.base-cms.io https://southcomm.atlassian.net/servicedesk/customer/portal/4
