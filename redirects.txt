@@ -274,3 +274,9 @@ inddist.com https://www.inddist.com
 
 support.baseplatform.io https://southcomm.atlassian.net/servicedesk/customer/portal/4
 support.base-cms.io https://southcomm.atlassian.net/servicedesk/customer/portal/4
+
+automationworld.staging.base-cms.io https://staging.automationworld.com
+healthcarepackaging.staging.base-cms.io https://staging.healthcarepackaging.com
+oemmagazine.staging.base-cms.io https://staging.oemmagazine.org
+packworld.staging.base-cms.io https://staging.packworld.com
+profoodworld.staging.base-cms.io https://staging.profoodworld.com
