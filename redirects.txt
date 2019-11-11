@@ -280,3 +280,4 @@ healthcarepackaging.staging.base-cms.io https://staging.healthcarepackaging.com
 oemmagazine.staging.base-cms.io https://staging.oemmagazine.org
 packworld.staging.base-cms.io https://staging.packworld.com
 profoodworld.staging.base-cms.io https://staging.profoodworld.com
+caprica.graphql-staging.base-cms.io https://caprica.graphql.base-cms-staging.io
