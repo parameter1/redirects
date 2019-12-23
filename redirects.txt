@@ -267,16 +267,16 @@ buyersguide.mae.pennnet.com https://www.militaryaerospace.com
 buyersguide.vision-systems.com https://www.vision-systems.com
 
 # Informa Buyers guides
-directory.forgingmagazine.com https://www.forgingmagazine.com
-directory.foundrymag.com https://www.foundrymag.com
-directory.americanmachinist.com https://www.americanmachinist.com
-directory.hpac.com https://www.hpac.com
-directory.hydraulicspneumatics.com https://www.hydraulicspneumatics.com
-directory.distributors.hydraulicspneumatics.com https://www.hydraulicspneumatics.com
-directory.manufacturers.hydraulicspneumatics.com https://www.hydraulicspneumatics.com
-directory.mhlnews.com https://www.mhlnews.com
-directory.rermag.com https://www.rermag.com
-directory.tdworld.com https://www.tdworld.com
+directory.forgingmagazine.com https://www.forgingmagazine.com/
+directory.foundrymag.com https://www.foundrymag.com/
+directory.americanmachinist.com https://www.americanmachinist.com/
+directory.hpac.com https://www.hpac.com/
+directory.hydraulicspneumatics.com https://www.hydraulicspneumatics.com/
+directory.distributors.hydraulicspneumatics.com https://www.hydraulicspneumatics.com/
+directory.manufacturers.hydraulicspneumatics.com https://www.hydraulicspneumatics.com/
+directory.mhlnews.com https://www.mhlnews.com/
+directory.rermag.com https://www.rermag.com/
+directory.tdworld.com https://www.tdworld.com/
 
 mbtmag.com https://www.mbtmag.com
 impomag.com https://www.impomag.com
