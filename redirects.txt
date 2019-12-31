@@ -277,6 +277,7 @@ directory.manufacturers.hydraulicspneumatics.com https://www.hydraulicspneumatic
 directory.mhlnews.com https://www.mhlnews.com
 directory.rermag.com https://www.rermag.com
 directory.tdworld.com https://www.tdworld.com
+motoragetraining.com https://passthease.com
 
 mbtmag.com https://www.mbtmag.com
 impomag.com https://www.impomag.com
@@ -293,3 +294,4 @@ oemmagazine.staging.base-cms.io https://staging.oemmagazine.org
 packworld.staging.base-cms.io https://staging.packworld.com
 profoodworld.staging.base-cms.io https://staging.profoodworld.com
 caprica.graphql-staging.base-cms.io https://caprica.graphql.base-cms-staging.io
+
