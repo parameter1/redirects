@@ -296,3 +296,4 @@ profoodworld.staging.base-cms.io https://staging.profoodworld.com
 caprica.graphql-staging.base-cms.io https://caprica.graphql.base-cms-staging.io
 iw.com https://www.industryweek.com
 aftermarketbusiness.com https://www.searchautoparts.com/aftermarket-business/
+jobs.tdworld.com https://www.electricaljobstoday.com
