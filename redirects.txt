@@ -294,7 +294,10 @@ oemmagazine.staging.base-cms.io https://staging.oemmagazine.org
 packworld.staging.base-cms.io https://staging.packworld.com
 profoodworld.staging.base-cms.io https://staging.profoodworld.com
 caprica.graphql-staging.base-cms.io https://caprica.graphql.base-cms-staging.io
+
+###### Informa ##########
 iw.com https://www.industryweek.com
 aftermarketbusiness.com https://www.searchautoparts.com/aftermarket-business/
 jobs.tdworld.com https://www.electricaljobstoday.com
+www.theenergytimes.com https://www.tdworld.com/
 utilityanalyticsweek.com https://www.uaievents.com/uaweek
