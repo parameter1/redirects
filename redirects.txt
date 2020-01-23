@@ -277,6 +277,7 @@ directory.manufacturers.hydraulicspneumatics.com https://www.hydraulicspneumatic
 directory.mhlnews.com https://www.mhlnews.com
 directory.rermag.com https://www.rermag.com
 directory.tdworld.com https://www.tdworld.com
+motoragetraining.com/rosemont http://events.motoragetraining.com/content/CTT-Rosemont.aspx
 motoragetraining.com https://passthease.com
 
 mbtmag.com https://www.mbtmag.com
