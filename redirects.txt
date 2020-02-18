@@ -1,104 +1,25 @@
 --------- Platform ---------
-
-icarus.bizbash.baseplatform.io https://www.bizbash.com
-vehicleservicepros.com https://www.vehicleservicepros.com
-printingnews.com http://www.printingnews.com
-oemoffhighway.com https://www.oemoffhighway.com
-forconstructionpros.com https://www.forconstructionpros.com
-sdcexec.com https://www.sdcexec.com
-vehicleservicepros.com https://www.vehicleservicepros.com
-masstransitmag.com http://www.masstransitmag.com
-officer.com https://www.officer.com
-greenindustrypros.com https://www.greenindustrypros.com
-vendingmarketwatch.com http://www.vendingmarketwatch.com
-firehouse.com https://www.firehouse.com
-foodlogistics.com https://www.foodlogistics.com
-cpapracticeadvisor.com http://www.cpapracticeadvisor.com
-aviationpros.com http://www.aviationpros.com
-securityinfowatch.com http://www.securityinfowatch.com
 nfocusnashville.com https://www.nfocusnashville.com
 tacoweek.nashvillescene.com https://www.nashvilletacoweek.com
 moviesinthepark.nashvillescene.com https://www.fwpublishingevents.com/movies-in-the-park
 burgerweek.nashvillescene.com https://www.fwpublishingevents.com/burger-week
 nashvillepost.com https://www.nashvillepost.com
-email.pitch.com https://email.thepitchkc.com
-pitch.com https://www.thepitchkc.com
-local.pitch.com https://local.thepitchkc.com
 nashvillescene.com https://www.nashvillescene.com
 cltampa.com https://www.cltampa.com
 citybeat.com https://www.citybeat.com
-ien.com https://www.ien.com
-designdevelopmenttoday.com https://www.designdevelopmenttoday.com
 as3.io https://www.as3.com
-m.nashvillescene.com https://www.nashvillescene.com
-finishingworld.net https://www.ien.com/finishing-world
-www.next.oemoffhighway.com https://www.oemoffhighway.com
-www.rmg-ien.baseplatform.io https://www.ien.com
-m.cltampa.com https://www.cltampa.com
-tampabayrestaurantweek.com https://www.cltampa.com/restaurantweek
 citybeat.com https://www.citybeat.com
-amtsociety.org https://www.aviationpros.com/education-training
-amtsociety.com https://www.aviationpros.com/education-training
-washingtoncitypaper.com https://www.washingtoncitypaper.com
-gasptampa.com https://www.cltampa.com/gasp
-nashvillepost.com https://www.nashvillepost.com
-hcinnovationgroup.com https://www.hcinnovationgroup.com
-healthcare-informatics.com https://www.hcinnovationgroup.com
-healthmgttech.com https://www.hcinnovationgroup.com
-dmnews.com https://www.dmnews.com
-pmmsubscribe.com https://www.plasticsmachinerymagazine.com/subscribe
-forconstructionpros.com https://www.forconstructionpros.com
-craftybastards.com http://southcommevents.com/craftybastards
-thepitchkc.com https://www.thepitchkc.com
-myprintresource.com https://www.printingnews.com
-aviationpros.com https://www.aviationpros.com
-cpapracticeadvisor.com https://www.cpapracticeadvisor.com
-locksmithledger.com https://www.locksmithledger.com
-masstransitmag.com https://www.masstransitmag.com
-securityinfowatch.com https://www.securityinfowatch.com
-vendingmarketwatch.com https://www.vendingmarketwatch.com
-evaluationengineering.com https://www.evaluationengineering.com
-hpnonline.com https://www.hpnonline.com
-plasticsmachinerymagazine.com https://www.plasticsmachinerymagazine.com
-mlo-online.com https://www.mlo-online.com
-cannabisequipmentnews.com https://www.cannabisequipmentnews.com
-foresternetwork.com https://www.foresternetwork.com
-forester.net https://www.foresternetwork.com
-mswmanagement.com https://www.foresternetwork.com
-www.mswmanagement.com https://www.foresternetwork.com
-erosioncontrol.com https://www.foresternetwork.com
-www.erosioncontrol.com https://www.foresternetwork.com
-stormh2o.com https://www.foresternetwork.com
-www.stormh2o.com https://www.foresternetwork.com
-digital.hpnonline.com https://cdn.hpnonline.com
-www.citybeat.com/news/article/13026248/news-maddening-expenses https://www.citybeat.com
 forums.locksmithledger.com https://www.locksmithledger.com/
-stormh20.com https://www.stormh2o.com
-gradingandexcavation.com https://www.gxcontractor.com
+
+
 --------- Pennwell ---------
 videos.gtl.waterworld.com https://www.waterworld.com/videos
 video.iww.waterworld.com https://www.waterworld.com/videos
 videos.waterworld.com https://www.waterworld.com/videos
 
 
---------- Clarity ---------
-brevity.printingnews.com https://clarity.printingnews.com
-brevity.next.printingnews.com https://clarity.printingnews.com
-brevity.officer.com https://clarity.officer.com
-brevity.firehouse.com https://clarity.firehouse.com
-brevity.next.firehouse.com https://clarity.firehouse.com
-brevity.mpmf.com https://clarity.mpmf.com
-
-
 --------- Merrick ---------
-fleetmag.com https://www.vehicleservicepros.com/magazine/53cd1d791784f8066eb2ca76
-pten.com https://www.vehicleservicepros.com/magazine/53cd1d791784f8066eb2ca77
-professionaldistributormagazine.com https://www.vehicleservicepros.com/magazine/53cd1d791784f8066eb2ca78
-printingnews.com http://www.printingnews.com
-ptesource.com https://www.vehicleservicepros.com/directory
 feeds.officer.com http://www.mctdirect.com
-taxpracticeadvisor.com http://cygnuscorporate.wufoo.com/forms/m1mu6gxu02je8ro
-
 
 --------- Base 3 ---------
 base.oemoffhighway.com http://manage.oemoffhighway.com
@@ -116,33 +37,19 @@ base.aviationpros.com https://manage.aviationpros.com
 base.locksmithledger.com https://manage.locksmithledger.com
 base.cpapracticeadvisor.com https://manage.cpapracticeadvisor.com
 
-
---------- Expos ---------
-facilitiesexpos.com http://facilitiesexpo.com
-
 --------- Other ---------
-www.southcommevents.com http://southcommevents.com
-southcomminc.com https://www.southcomm.com
 jira.baseplatform.io https://southcomm.atlassian.net
 invoice.southcomm.com https://cygnuscorporate.wufoo.com/forms/marnarg1qvfg6h
 www.invoice.southcomm.com https://cygnuscorporate.wufoo.com/forms/marnarg1qvfg6h
 invoice.endeavorb2b.com https://cygnuscorporate.wufoo.com/forms/marnarg1qvfg6h
 www.invoice.endeavorb2b.com https://cygnuscorporate.wufoo.com/forms/marnarg1qvfg6h
-ufs1.southcomm.com http://207.88.236.118:5000
-scenephotocontest.com https://woobox.com/q7j9ee
 www.craftybastards.nashvillescene.com http://nashville.craftybastards.com
 craftybastards.nashvillescene.com http://nashville.craftybastards.com
-southcomm.com http://www.endeavorbusinessmedia.com
 intranet.endeavorb2b.com https://southcomm.sharepoint.com
 forums.watertechonline.com https://www.watertechonline.com/bulletin-board
-securitybusinessmag.com https://www.securityinfowatch.com/magazine/5447e151c99db54158d9e7e1
-endeavorb2b.com https://www.endeavorbusinessmedia.com
-distributedenergy.com https://www.foresternetwork.com/distributed-energy
+
 
 --------- Pennwell ---------
-strategies-u.com https://store.strategies-u.com
-dentalacademyofce.com https://pennwell.myabsorb.com/
-deepwateroperations.com https://www.offshore-event.com
 horticulturelightingconference.com/usa/about-us/ https://endeavor.swoogo.com/hlc19/about
 horticulturelightingconference.com/usa/speakers/ https://endeavor.swoogo.com/hlc19/speakers
 horticulturelightingconference.com/usa/program-2018/ https://endeavor.swoogo.com/hlc19/program
@@ -198,65 +105,6 @@ marketplaceseminar.com/about-us/contact-us.html https://endeavor.swoogo.com/lpms
 marketplaceseminar.com/video-2017 https://endeavor.swoogo.com/lpms2020
 marketplaceseminar.com/content-rotators/home.html https://endeavor.swoogo.com/lpms2020
 
-offshorewindsummit.com/index.html https://endeavor.swoogo.com/owes2020
-offshorewindsummit.com/content/owes/en/index.html https://endeavor.swoogo.com/owes2020
-offshorewindsummitt.com/content/owes.html https://endeavor.swoogo.com/owes2020
-offshorewindsummit.com https://endeavor.swoogo.com/owes2020
-offshorewindsummit.comabout.html https://endeavor.swoogo.com/owes2020/about
-offshorewindsummit.com/event-information/travel.html https://endeavor.swoogo.com/owes2020/travel
-offshorewindsummit.com/conference.html https://endeavor.swoogo.com/owes2020/conference
-offshorewindsummit.com/event-information/event-schedule.html https://endeavor.swoogo.com/owes2020/event-schedule
-offshorewindsummit.com/conference/speakers.html https://endeavor.swoogo.com/owes2020/advisory-board
-offshorewindsummit.com/event-information/post-event-report.html https://endeavor.swoogo.com/owes2020
-offshorewindsummit.com/sponsors.html https://endeavor.swoogo.com/owes2020/sponsors
-offshorewindsummit.com/index/contact-us.html https://endeavor.swoogo.com/owes2020/contact
-offshorewindsummit.com/register.html https://endeavor.swoogo.com/owes2020/register
-offshorewindsummit.com/event-information/travel-hotel.html https://endeavor.swoogo.com/owes2020/hotel-information
-offshorewindsummit.com/register/international.html https://endeavor.swoogo.com/owes2020/international
-offshorewindsummit.com/site-map.html https://endeavor.swoogo.com/owes2020
-
-pnecconferences.com https://endeavor.swoogo.com/pnec2020
-pnecconferences.com/index.html https://endeavor.swoogo.com/pnec2020
-pnecconferences.com/content/pnec/en/index.html https://endeavor.swoogo.com/pnec2020
-pnecconferences.com/content/pnec.html https://endeavor.swoogo.com/pnec2020
-pnecconferences.com/event-information.html https://endeavor.swoogo.com/pnec2020/event-information
-pnecconferences.com/event-information/event-schedule.html https://endeavor.swoogo.com/pnec2020/event-schedule
-pnecconferences.com/exhibition/who-attends.html https://endeavor.swoogo.com/pnec2020/who-attends
-pnecconferences.com/event-information/request-for-information.html#rfi https://endeavor.swoogo.com/pnec2020/request-for-information
-pnecconferences.com/event-information/travel.html https://endeavor.swoogo.com/pnec2020/travel
-pnecconferences.com/exhibition/exhibitor-center/sponsorships.html https://endeavor.swoogo.com/pnec2020/sponsor
-pnecconferences.com/exhibition.html https://endeavor.swoogo.com/pnec2020/exhibition
-pnecconferences.com/exhibition/exhibitor-center/become-an-exhibitor.html https://endeavor.swoogo.com/pnec2020/become-an-exhibitor
-pnecconferences.com/exhibition/exhibitor-center.html https://endeavor.swoogo.com/pnec2020/exhibitor-center
-pnecconferences.com/exhibition/exhibitor-center/toolkit.html https://endeavor.swoogo.com/pnec2020/toolkit
-pnecconferences.com/conference.html https://endeavor.swoogo.com/pnec2020/conference
-pnecconferences.com/register.html https://endeavor.swoogo.com/pnec2020/register
-pnecconferences.com/register/pricing2.html https://endeavor.swoogo.com/pnec2020/pricing
-pnecconferences.com/register/registration-pricing.html https://endeavor.swoogo.com/pnec2020/pricing
-pnecconferences.com/index/contact-us.html https://endeavor.swoogo.com/pnec2020/contact
-pnecconferences.com/site-map.html https://endeavor.swoogo.com/pnec2020
-pnecconferences.com/event-information/social-media.html https://endeavor.swoogo.com/pnec2020/event-information
-pnecconferences.com/event-information/travel/hotel.html https://endeavor.swoogo.com/pnec2020/hotel-information
-pnecconferences.com/register/international.html https://endeavor.swoogo.com/pnec2020/international
-pnecconferences.com/event-information/travel/travel-basics.html https://endeavor.swoogo.com/pnec2020/travel-basics
-pnecconferences.com/event-information/about.html https://endeavor.swoogo.com/pnec2020/event-information
-pnecconferences.com/event-information/exhibitor-resources.html https://endeavor.swoogo.com/pnec2020/toolkit
-pnecconferences.com/conference/networking.html https://endeavor.swoogo.com/pnec2020/conference
-pnecconferences.com/exhibition/exhibitor-center/sponsorships/sponsors.html https://endeavor.swoogo.com/pnec2020/sponsor
-pnecconferences.com/video.html https://endeavor.swoogo.com/pnec2020
-pnecconferences.com/exhibition/types-of-products-services-on-display.html https://endeavor.swoogo.com/pnec2020/exhibition
-pnecconferences.com/exhibition/cost-to-exhibit.html https://endeavor.swoogo.com/pnec2020/exhibition
-pnecconferences.com/exhibition/enhanced-exhibitor-listings.html https://endeavor.swoogo.com/pnec2020/exhibition
-pnecconferences.com/conference/about.html https://endeavor.swoogo.com/pnec2020/conference
-pnecconferences.com/conference/advisory-board.html https://endeavor.swoogo.com/pnec2020/conference
-pnecconferences.com/conference/awards.html https://endeavor.swoogo.com/pnec2020/conference
-pnecconferences.com/conference/download-proceedings-instructions.html https://endeavor.swoogo.com/pnec2020/conference
-pnecconferences.com/conference/speakers/become-a-speaker.html https://endeavor.swoogo.com/pnec2020/conference
-pnecconferences.com/conference/speakers/call-for-abstracts.html https://endeavor.swoogo.com/pnec2020/conference
-pnecconferences.com/register/cancellation-policy.html https://endeavor.swoogo.com/pnec2020/register
-pnecconferences.com/register/instructions.html https://endeavor.swoogo.com/pnec2020/register
-pnecconferences.com/event-information/mobile-event-app.html https://endeavor.swoogo.com/pnec2020/event-information
-pnecconferences.com/event-information/event-information-register-now.html https://endeavor.swoogo.com/pnec2020/event-information
 
 # Pennwell Buyers guides
 buyersguide.cablinginstall.com https://www.cablinginstall.com
@@ -278,14 +126,6 @@ directory.manufacturers.hydraulicspneumatics.com https://www.hydraulicspneumatic
 directory.mhlnews.com https://www.mhlnews.com
 directory.rermag.com https://www.rermag.com
 directory.tdworld.com https://www.tdworld.com
-motoragetraining.com/rosemont http://events.motoragetraining.com/content/CTT-Rosemont.aspx
-motoragetraining.com https://passthease.com
-
-mbtmag.com https://www.mbtmag.com
-impomag.com https://www.impomag.com
-foodmanufacturing.com https://www.foodmanufacturing.com
-manufacturing.net https://www.manufacturing.net
-inddist.com https://www.inddist.com
 
 support.baseplatform.io https://southcomm.atlassian.net/servicedesk/customer/portal/4
 support.base-cms.io https://southcomm.atlassian.net/servicedesk/customer/portal/4
@@ -298,8 +138,4 @@ profoodworld.staging.base-cms.io https://staging.profoodworld.com
 caprica.graphql-staging.base-cms.io https://caprica.graphql.base-cms-staging.io
 
 ###### Informa ##########
-iw.com https://www.industryweek.com
-aftermarketbusiness.com https://www.searchautoparts.com/aftermarket-business/
 jobs.tdworld.com https://www.electricaljobstoday.com
-theenergytimes.com https://www.tdworld.com/
-utilityanalyticsweek.com https://www.uaievents.com/uaweek
