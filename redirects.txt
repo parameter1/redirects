@@ -1,3 +1,4 @@
 --------- Platform ---------
 cltampa.com https://www.cltampa.com
 citybeat.com https://www.citybeat.com
+printingnews.com https://www.printingnews.com
